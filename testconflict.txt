@@ -1,1 +1,1 @@
-test resolve
+test remote
